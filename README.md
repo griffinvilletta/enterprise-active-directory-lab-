@@ -56,7 +56,7 @@ I added a simple group policy that would disable the control panel for one user 
 
 ![Disabled Control Panel Policy](screenshots/grouppolicy.png)
 ![Disabled Control Panel in Effect](screenshots/disabledcontrolpanel.png)
-![Account Lockout from Failed Logins](screenshots/accountdisabled.png)
+![Account Lockout from Failed Logins](screenshots/lockedout.png)
 
 ## Step 9: Installed Splunk SIEM 
 
