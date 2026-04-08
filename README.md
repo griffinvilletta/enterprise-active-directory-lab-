@@ -2,11 +2,12 @@
 
 This project simulates an enterprise Active Directory environment using DNS, DHCP, and SIEM tools
 
-Tools:
--Oracle Virtualbox
--Windows Server 2025
--Windows 11 Pro
--Splunk SIEM 
+## Tools:
+
+- Oracle Virtualbox
+- Windows Server 2025
+- Windows 11 Pro
+- Splunk SIEM 
 
 ## Step 1: Configured Windows server 
 
