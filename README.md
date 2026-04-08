@@ -7,7 +7,8 @@ This project simulates an enterprise Active Directory environment using DNS, DHC
 - Oracle Virtualbox
 - Windows Server 2025
 - Windows 11 Pro
-- Splunk SIEM 
+- Splunk SIEM
+- ADDS, DNS, and DHCP
 
 ## Step 1: Configured Windows server 
 
